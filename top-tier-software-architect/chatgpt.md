@@ -1,4 +1,4 @@
-# Software Architecture & Leadership
+# Software Architecture
 
 ## 1. Great Architects Make Others Smarter
 
@@ -8,47 +8,47 @@ The biggest lesson:
 
 Bad architects:
 
-- Act like oracles with all the answers
-- Control decisions
-- Hide behind buzzwords
-- Create bottlenecks
+* Act like oracles with all the answers
+* Control decisions
+* Hide behind buzzwords
+* Create bottlenecks
 
 Great architects:
 
-- Amplify team intelligence
-- Help others make better decisions
-- Reveal blind spots
-- Clarify trade-offs
-- Ask good questions
+* Amplify team intelligence
+* Help others make better decisions
+* Reveal blind spots
+* Clarify trade-offs
+* Ask good questions
 
 **Mental Model:** Architect = Amplifier, not Oracle.
 
 ---
 
-# 2. Architecture Is Risk Management
+## 2. Architecture Is Risk Management
 
 A major role of architecture is reducing risk.
 
 Examples:
 
-- Scalability risks
-- Security risks
-- Reliability risks
-- Maintainability risks
-- Business risks
+* Scalability risks
+* Security risks
+* Reliability risks
+* Maintainability risks
+* Business risks
 
 However:
 
 ❌ Bad thinking:
 
-- "If the plan is perfect, risk is low."
+* "If the plan is perfect, risk is low."
 
 ✅ Better thinking:
 
-- "Will customers use it?"
-- "Will it make money?"
-- "Can it evolve?"
-- "Will it solve the business problem?"
+* "Will customers use it?"
+* "Will it make money?"
+* "Can it evolve?"
+* "Will it solve the business problem?"
 
 Architecture is not just technical risk reduction.
 
@@ -56,7 +56,7 @@ It's business risk reduction.
 
 ---
 
-# 3. Simplicity Is a Superpower
+## 3. Simplicity Is a Superpower
 
 One of the strongest messages:
 
@@ -70,11 +70,11 @@ Cannot be removed.
 
 Examples:
 
-- Distributed systems
-- Networking
-- Retries
-- Timeouts
-- Eventual consistency
+* Distributed systems
+* Networking
+* Retries
+* Timeouts
+* Eventual consistency
 
 ### Accidental Complexity
 
@@ -82,10 +82,10 @@ Created by us.
 
 Examples:
 
-- Overengineering
-- Unnecessary abstractions
-- Unneeded microservices
-- Buzzword-driven design
+* Overengineering
+* Unnecessary abstractions
+* Unneeded microservices
+* Buzzword-driven design
 
 Goal:
 
@@ -94,14 +94,14 @@ Goal:
 
 ---
 
-# 4. Complexity Kills Teams
+## 4. Complexity Kills Teams
 
 When systems become too complex:
 
-- Cognitive load increases
-- People move slower
-- Bugs increase
-- Fear increases
+* Cognitive load increases
+* People move slower
+* Bugs increase
+* Fear increases
 
 Eventually:
 
@@ -111,13 +111,13 @@ That's how legacy systems are born.
 
 A great architect:
 
-- Breaks complexity apart
-- Creates understandable abstractions
-- Makes change safer
+* Breaks complexity apart
+* Creates understandable abstractions
+* Makes change safer
 
 ---
 
-# 5. Don't Argue About Technologies
+## 5. Don't Argue About Technologies
 
 Most engineering debates are framed incorrectly.
 
@@ -125,12 +125,12 @@ Example:
 
 Instead of:
 
-- Monolith vs Microservices
+* Monolith vs Microservices
 
 Ask:
 
-- Design-time modularity?
-- Runtime modularity?
+* Design-time modularity?
+* Runtime modularity?
 
 Now you have 4 possibilities instead of 2.
 
@@ -140,7 +140,7 @@ The architect's job is:
 
 ---
 
-# 6. Build a Shared Mental Model
+## 6. Build a Shared Mental Model
 
 Before solving disagreements:
 
@@ -148,9 +148,9 @@ Create a common frame.
 
 People often disagree because:
 
-- Different assumptions
-- Different goals
-- Different definitions
+* Different assumptions
+* Different goals
+* Different definitions
 
 The architect's job:
 
@@ -163,16 +163,16 @@ People argue forever.
 
 ---
 
-# 7. Draw Pictures
+## 7. Draw Pictures
 
 A huge theme throughout the discussion.
 
 Visuals:
 
-- Remove ambiguity
-- Expose misunderstandings
-- Reveal assumptions
-- Accelerate discussions
+* Remove ambiguity
+* Expose misunderstandings
+* Reveal assumptions
+* Accelerate discussions
 
 Why diagrams work:
 
@@ -182,73 +182,73 @@ Pictures force precision.
 
 Architects should:
 
-- Sketch often
-- Use whiteboards
-- Use pen and paper
-- Visualize systems
+* Sketch often
+* Use whiteboards
+* Use pen and paper
+* Visualize systems
 
 ---
 
-# 8. Visual Thinking Is a Skill
+## 8. Visual Thinking Is a Skill
 
 You don't need artistic talent.
 
 You need:
 
-- Practice
-- Feedback
-- Repetition
+* Practice
+* Feedback
+* Repetition
 
 Good architecture diagrams combine:
 
 ### Left Brain
 
-- Logic
-- Structure
-- Models
-- Constraints
+* Logic
+* Structure
+* Models
+* Constraints
 
 ### Right Brain
 
-- Patterns
-- Storytelling
-- Visualization
+* Patterns
+* Storytelling
+* Visualization
 
 Great architects constantly switch between both.
 
 ---
 
-# 9. Architecture Is Storytelling
+## 9. Architecture Is Storytelling
 
 Executives don't care about boxes and arrows.
 
 They care about:
 
-- Why?
-- What problem does this solve?
-- What trade-offs did we make?
+* Why?
+* What problem does this solve?
+* What trade-offs did we make?
 
 The best architects:
 
-- Create memorable visuals
-- Create memorable stories
-- Back everything with sound reasoning
+* Create memorable visuals
+* Create memorable stories
+* Back everything with sound reasoning
 
 Story + Technical Depth = Influence
 
 ---
 
-# 10. Technical Skill Still Matters
+## 10. Technical Skill Still Matters
 
 You cannot architect systems if you're detached from technology.
 
 You need:
 
-- System design
-- Operational knowledge
-- Domain modeling
-- Observability
-- Scalability knowledge
+* System design
+* Operational knowledge
+* Domain modeling
+* Observability
+* Scalability knowledge
 
 Big trap:
 
@@ -260,7 +260,7 @@ Architects must continuously update their mental models.
 
 ---
 
-# 11. Stay Hands-On Through People
+## 11. Stay Hands-On Through People
 
 You can't master every technology.
 
@@ -270,10 +270,10 @@ Build a network.
 
 Talk to:
 
-- Engineers
-- Architects
-- Experts
-- Friends in the industry
+* Engineers
+* Architects
+* Experts
+* Friends in the industry
 
 The fastest way to learn:
 
@@ -281,7 +281,7 @@ The fastest way to learn:
 
 ---
 
-# 12. The "Rubber Duck" Test
+## 12. The "Rubber Duck" Test
 
 Want to know if you're becoming architect material?
 
@@ -291,11 +291,11 @@ Ask:
 
 Not:
 
-- To get answers
+* To get answers
 
 But:
 
-- To gain clarity
+* To gain clarity
 
 If people use you as a sounding board:
 
@@ -303,51 +303,51 @@ You're already developing architecture skills.
 
 ---
 
-# 13. The Phantom Sketch Artist
+## 13. The Phantom Sketch Artist
 
 One of the best metaphors.
 
 A sketch artist:
 
-- Doesn't know what the criminal looks like
-- Knows how to extract and visualize information
+* Doesn't know what the criminal looks like
+* Knows how to extract and visualize information
 
 Similarly:
 
 The architect:
 
-- Doesn't know the application better than the team
-- Knows how to extract knowledge
-- Helps people express what they already know
+* Doesn't know the application better than the team
+* Knows how to extract knowledge
+* Helps people express what they already know
 
 Architects often create clarity, not answers.
 
 ---
 
-# 14. Modern Enterprise Architects Are Scouts
+## 14. Modern Enterprise Architects Are Scouts
 
 Old model:
 
 ❌ Cartographer
 
-- Giant maps
-- Complete documentation
-- Static world
+* Giant maps
+* Complete documentation
+* Static world
 
 Modern model:
 
 ✅ Scout
 
-- Purpose-driven
-- Context-driven
-- Fast-moving
-- Focused on decisions
+* Purpose-driven
+* Context-driven
+* Fast-moving
+* Focused on decisions
 
 Technology changes too quickly for perfect maps.
 
 ---
 
-# 15. Start With Questions, Not Answers
+## 15. Start With Questions, Not Answers
 
 A common architect mistake:
 
@@ -355,37 +355,37 @@ A common architect mistake:
 
 Bad:
 
-- Searching for places to use Kubernetes
-- Searching for places to use AI
-- Searching for places to use microservices
+* Searching for places to use Kubernetes
+* Searching for places to use AI
+* Searching for places to use microservices
 
 Good:
 
-- Start with the problem
-- Then evaluate solutions
+* Start with the problem
+* Then evaluate solutions
 
 Question first.
 Technology second.
 
 ---
 
-# 16. Social Skills Are Mandatory
+## 16. Social Skills Are Mandatory
 
 Architecture is impossible in isolation.
 
 You need:
 
-- Communication
-- Influence
-- Facilitation
-- Networking
-- Trust-building
+* Communication
+* Influence
+* Facilitation
+* Networking
+* Trust-building
 
 An architect locked in a room cannot succeed.
 
 ---
 
-# 17. Political Capital
+## 17. Political Capital
 
 A powerful concept.
 
@@ -393,16 +393,16 @@ Think of influence like money.
 
 You earn it through:
 
-- Credibility
-- Reliability
-- Transparency
-- Helping others
+* Credibility
+* Reliability
+* Transparency
+* Helping others
 
 You spend it when:
 
-- Challenging decisions
-- Pushing change
-- Calling out risks
+* Challenging decisions
+* Pushing change
+* Calling out risks
 
 Mistake:
 
@@ -410,19 +410,19 @@ Mistake:
 
 Good architects:
 
-- Build trust first
-- Spend influence carefully
+* Build trust first
+* Spend influence carefully
 
 ---
 
-# 18. Be the Jester
+## 18. Be the Jester
 
 Another metaphor.
 
 The court jester:
 
-- Has little formal power
-- Can tell uncomfortable truths
+* Has little formal power
+* Can tell uncomfortable truths
 
 Architects should be similar.
 
@@ -434,31 +434,31 @@ Trusted truth-tellers.
 
 ---
 
-# 19. There Is No "Best Architecture"
+## 19. There Is No "Best Architecture"
 
 Perhaps the most important architecture lesson.
 
 Architecture isn't:
 
-- Good vs Bad
+* Good vs Bad
 
 It's:
 
-- Suitable vs Unsuitable
+* Suitable vs Unsuitable
 
 Every architecture is a trade-off.
 
 Even the famous "Big Ball of Mud" has advantages:
 
-- Fast
-- Cheap
-- Easy to build
+* Fast
+* Cheap
+* Easy to build
 
 Trade-offs matter more than patterns.
 
 ---
 
-# 20. Review Decisions, Not Diagrams
+## 20. Review Decisions, Not Diagrams
 
 When evaluating architecture:
 
@@ -472,28 +472,28 @@ Ask:
 
 Good architecture comes from:
 
-- Sound reasoning
-- Conscious decisions
-- Business alignment
+* Sound reasoning
+* Conscious decisions
+* Business alignment
 
 Not from fashionable technologies.
 
 ---
 
-# 21. AI Won't Replace Good Architects
+## 21. AI Won't Replace Good Architects
 
 LLMs can generate:
 
-- Documents
-- Diagrams
-- Recommendations
+* Documents
+* Diagrams
+* Recommendations
 
 But they cannot replace:
 
-- Reasoning
-- Judgment
-- Context understanding
-- Trade-off analysis
+* Reasoning
+* Judgment
+* Context understanding
+* Trade-off analysis
 
 Great quote:
 
@@ -507,7 +507,7 @@ Not the other way around.
 
 ---
 
-# 22. Two Traps Architects Must Avoid
+## 22. Two Traps Architects Must Avoid
 
 ### Trap #1: Simplicity Feels Wrong
 
@@ -520,8 +520,6 @@ People think:
 Actually:
 
 That often means you've done an excellent job.
-
----
 
 ### Trap #2: Hidden Assumptions Feel Obvious After Discovery
 
@@ -539,7 +537,7 @@ A major architecture skill is uncovering hidden assumptions.
 
 ---
 
-# The Core Message
+## The Core Message
 
 If you remember only one thing:
 
@@ -549,8 +547,8 @@ Everything else—diagrams, frameworks, cloud platforms, AI, microservices—is 
 
 The real skill is:
 
-- Clarifying thinking
-- Revealing trade-offs
-- Reducing complexity
-- Building shared understanding
-- Making everyone around you smarter.
+* Clarifying thinking
+* Revealing trade-offs
+* Reducing complexity
+* Building shared understanding
+* Making everyone around you smarter.
